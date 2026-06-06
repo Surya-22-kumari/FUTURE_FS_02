@@ -20,8 +20,6 @@ Mini CRM (Customer Relationship Management) is a web-based application designed 
 * HTML
 * CSS
 * JavaScript
-* [Add Framework if Used]
-* [Add Database if Used]
 
 ## Project Objectives
 
