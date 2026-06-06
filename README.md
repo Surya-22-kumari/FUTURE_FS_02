@@ -1,5 +1,4 @@
 # Mini CRM System
-
 ## Overview
 
 Mini CRM (Customer Relationship Management) is a web-based application designed to help businesses efficiently manage customer information, track leads, monitor interactions, and improve overall customer engagement.
